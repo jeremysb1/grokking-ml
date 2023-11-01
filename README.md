@@ -1,1 +1,1 @@
-# grokking-ml
+# Machine Learning with PyTorch and Scikit-Learn
